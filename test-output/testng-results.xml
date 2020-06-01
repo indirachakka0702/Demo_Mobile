@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93616" started-at="2020-05-29T01:16:46Z" finished-at="2020-05-29T01:18:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93616" started-at="2020-05-29T01:16:46Z" finished-at="2020-05-29T01:18:20Z">
+      <class name="Demp_Mobile.Demp_Mobile.contactsApp">
+        <test-method status="PASS" signature="TriggerinBeforeSuiteDependency()[pri:0, instance:Demp_Mobile.Demp_Mobile.contactsApp@4c70fda8]" name="TriggerinBeforeSuiteDependency" is-config="true" duration-ms="19814" started-at="2020-05-28T19:16:27Z" finished-at="2020-05-28T19:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerinBeforeSuiteDependency -->
+        <test-method status="PASS" signature="contacts_TC_01()[pri:0, instance:Demp_Mobile.Demp_Mobile.contactsApp@4c70fda8]" name="contacts_TC_01" duration-ms="18229" started-at="2020-05-28T19:16:46Z" finished-at="2020-05-28T19:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts_TC_01 -->
+        <test-method status="PASS" signature="contacts_TC_02_scrollDown()[pri:0, instance:Demp_Mobile.Demp_Mobile.contactsApp@4c70fda8]" name="contacts_TC_02_scrollDown" duration-ms="54655" started-at="2020-05-28T19:17:05Z" finished-at="2020-05-28T19:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts_TC_02_scrollDown -->
+        <test-method status="PASS" signature="contacts_TC_03_swipe()[pri:0, instance:Demp_Mobile.Demp_Mobile.contactsApp@4c70fda8]" name="contacts_TC_03_swipe" duration-ms="20694" started-at="2020-05-28T19:17:59Z" finished-at="2020-05-28T19:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts_TC_03_swipe -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Demp_Mobile.Demp_Mobile.contactsApp@4c70fda8]" name="closeApp" is-config="true" duration-ms="933" started-at="2020-05-28T19:18:20Z" finished-at="2020-05-28T19:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Demp_Mobile.Demp_Mobile.contactsApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

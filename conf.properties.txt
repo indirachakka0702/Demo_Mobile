@@ -1,0 +1,3 @@
+appNameToLaunch=Contacts
+appPackageName=
+appActivityName=
